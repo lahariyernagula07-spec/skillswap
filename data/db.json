@@ -1,0 +1,10 @@
+{
+  "skills": [
+    {"id":"skill-1","name":"Python","category":"Programming","description":"Python basics and scripting","offeredBy":"Demo Student","type":"offer","createdAt":"2026-10-26T00:00:00.000Z"},
+    {"id":"skill-2","name":"UI/UX Design","category":"Design","description":"Wireframes and design fundamentals","offeredBy":"Demo Student","type":"offer","createdAt":"2026-10-26T00:00:00.000Z"}
+  ],
+  "requests": [],
+  "messages": [],
+  "sessions": [],
+  "profiles": []
+}
